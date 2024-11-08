@@ -1,4 +1,4 @@
-# IA como uma ameaça à humanidade na Era das IAs Generativas
+# IA como uma ameaça à humanidade
 
 ## 📒 Descrição
 Este projeto tem como finalidade criar conteúdo digital através da inteligência artificial, com o objetivo de reflexão sobre o avanço da tecnologia e suas impactantes consequências, assim como as responsabilidades éticas e legais no desenvolvimento e treinamento de robôs.
