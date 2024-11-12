@@ -1,20 +1,18 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+IA como uma ameaça à humanidade
+📒 Descrição
+Este projeto tem como finalidade criar conteúdo digital através da inteligência artificial, com o objetivo de reflexão sobre o avanço da tecnologia e suas impactantes consequências, assim como, as responsabilidades éticas e legais no desenvolvimento e treinamento de robôs.
 
-## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa D-ID para sintetização de voz e geração de avatar virtual;
+🧐 Processo de Criação
+Ferramentas de IAs generativas e pesquisa de conteúdo.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+🚀 Resultados
+[Projeto] https://studio.d-id.com/share?id=8033eb158e649611c6f08b328d5728e9&utm_source=copy
 
-## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+💭 Reflexão
+A superinteligência é um conceito fascinante, mas também preocupante. A criação de algo "natural" utilizando inteligência artificial é um dos maiores desafios da nossa era e me faz refletir: Qual o papel da criatividade humana em um mundo cada vez mais dominado pela tecnologia? Dominaremos ou seremos dominados?
 
-## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
-
-[LINK PARA O VÍDEO AQUI]()
-
-## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Links Interessantes
+https://www.hrw.org/pt/topic/armas/armas-roboticas-autonomas
