@@ -1,19 +1,20 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# IA como uma ameaça à humanidade
 
 ## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+Este projeto tem como finalidade criar conteúdo digital através da inteligência artificial, com o objetivo de reflexão sobre o avanço da tecnologia e suas impactantes consequências, assim como, as responsabilidades éticas e legais no desenvolvimento e treinamento de robôs.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Ferramentas de IAs generativas e pesquisa de conteúdo.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+[Projeto] https://studio.d-id.com/share?id=8033eb158e649611c6f08b328d5728e9&utm_source=copy
 
+## 💭 Reflexão 
+A superinteligência é um conceito fascinante, mas também preocupante.
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
