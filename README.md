@@ -12,7 +12,7 @@ Ferramentas de IAs generativas e pesquisa de conteúdo.
 
 ## 🚀 Resultados  
 
-[Projeto] <a href="https://studio.d-id.com/share?id=8033eb158e649611c6f08b328d5728e9&utm_source=copy title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ver</a>
 
 ## 💭 Reflexão 
 A superinteligência é um conceito fascinante, mas também preocupante.
