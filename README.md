@@ -12,7 +12,7 @@ Ferramentas de IAs generativas e pesquisa de conteúdo.
 
 ## 🚀 Resultados  
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ver</a>
+<a href="https://studio.d-id.com/share?id=8033eb158e649611c6f08b328d5728e9&utm_source=copy" title="View video now">[PROJETO]</a>
 
 ## 💭 Reflexão 
 A superinteligência é um conceito fascinante, mas também preocupante.
@@ -21,5 +21,5 @@ Qual o papel da criatividade humana em um mundo cada vez mais dominado pela tecn
 Dominaremos ou seremos dominados?
 
 ## Links Interessantes
-https://www.hrw.org/pt/topic/armas/armas-roboticas-autonomas
+<a href="https://www.hrw.org/pt/topic/armas/armas-roboticas-autonomas" title="View site now">[SITE]</a>
 
