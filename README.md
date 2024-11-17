@@ -11,7 +11,7 @@ Este projeto tem como finalidade criar conteúdo digital através da inteligênc
 Ferramentas de IAs generativas e pesquisa de conteúdo.
 
 ## 🚀 Resultados
-[Projeto] "https://studio.d-id.com/share?id=8033eb158e649611c6f08b328d5728e9&utm_source=copy"
+[Projeto]https://studio.d-id.com/share?id=8033eb158e649611c6f08b328d5728e9&utm_source=copy
 
 ## 💭 Reflexão 
 A superinteligência é um conceito fascinante, mas também preocupante.
